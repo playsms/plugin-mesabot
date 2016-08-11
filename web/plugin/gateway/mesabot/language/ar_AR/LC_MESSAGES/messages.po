@@ -7,9 +7,6 @@ msgstr ""
 msgid "Fail to save gateway module configurations"
 msgstr ""
 
-msgid "Fill to change the Passkey"
-msgstr ""
-
 msgid "Gateway module configurations has been saved"
 msgstr ""
 
@@ -31,14 +28,8 @@ msgstr ""
 msgid "Notes"
 msgstr ""
 
-msgid "Passkey"
-msgstr ""
-
 msgid "Save"
 msgstr ""
 
-msgid "Userkey"
-msgstr ""
-
-msgid "Mesabot URL"
+msgid "Token"
 msgstr ""
