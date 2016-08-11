@@ -1,0 +1,44 @@
+msgid "All mandatory fields must be filled"
+msgstr ""
+
+msgid "Eg: +0700 for Jakarta/Bangkok timezone"
+msgstr ""
+
+msgid "Fail to save gateway module configurations"
+msgstr ""
+
+msgid "Fill to change the Passkey"
+msgstr ""
+
+msgid "Gateway module configurations has been saved"
+msgstr ""
+
+msgid "Gateway name"
+msgstr ""
+
+msgid "Manage mesabot"
+msgstr ""
+
+msgid "Max. 16 numeric or 11 alphanumeric char. empty to disable"
+msgstr ""
+
+msgid "Module sender ID"
+msgstr ""
+
+msgid "Module timezone"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Passkey"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Userkey"
+msgstr ""
+
+msgid "Mesabot URL"
+msgstr ""
